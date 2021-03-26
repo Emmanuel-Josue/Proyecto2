@@ -45,10 +45,10 @@ public class Principal {
           objeto.respuestaCorrecta(objeto.convercion(palabra), abecedarioI);
           }
         //Primer cambio
-      sout.println("PRIMER CAMBIO REALIZADO");
+      System.out.println("PRIMER CAMBIO REALIZADO");
         
         //Segundo cambio
-        sout.printl("espero esto lo detecte");
+        System.out.println("espero esto lo detecte");
 
     }
     
