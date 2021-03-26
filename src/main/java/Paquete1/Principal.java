@@ -44,8 +44,8 @@ public class Principal {
         else{
           objeto.respuestaCorrecta(objeto.convercion(palabra), abecedarioI);
           }
-      
-
+        //Primer cambio
+      sout.println("PRIMER CAMBIO REALIZADO");
 
     }
     
